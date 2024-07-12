@@ -12,6 +12,6 @@ Após baixar o projeto, basta apenas você abrir o arquivo **index.html** para c
 
 # Técnicas e tecnologias utilizadas
 
-- [Java Script](https://img.shields.io/badge/JavaScript-31%2C2%25-yellow)
-- [HTML](https://img.shields.io/badge/HTML-39%2C6%25-red)
-- [CSS](https://img.shields.io/badge/CSS-29%2C2%25-purple)
+- ![Java Script](https://img.shields.io/badge/JavaScript-31%2C2%25-yellow)
+- ![HTML](https://img.shields.io/badge/HTML-39%2C6%25-red)
+- ![CSS](https://img.shields.io/badge/CSS-29%2C2%25-purple)
